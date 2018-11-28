@@ -9,6 +9,6 @@ kibana server start:
 cd E:\kibana-6.0.0-windows-x86_64\kibana-6.0.0-windows-x86_64\bin\kibana
 
 logstash server start:
-cd E:\E:\logstash-6.0.0\bin\logstash -f C:\Users\Kowshik.Yerra\Desktop\HACHATON\cars_data\logstash_cars_info.conf
+cd E:\logstash-6.0.0\bin\logstash -f C:\Users\Kowshik.Yerra\Desktop\HACHATON\cars_data\logstash_cars_info.conf
 
 Note : path mentioned in conf file should be in unix format means ... C:/a/b/c instead of C:\a\b\c
