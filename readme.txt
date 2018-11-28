@@ -1,0 +1,13 @@
+guide : https://www.elastic.co/guide/en/logstash/current/configuration.html
+
+github : https://raw.githubusercontent.com/datacharmer/test_db
+
+elastic search server start:
+cd E:\elasticsearch-6.0.0\bin\elasticsearch
+
+kibana server start:
+cd E:\kibana-6.0.0-windows-x86_64\kibana-6.0.0-windows-x86_64\bin\kibana
+
+logstash server start:
+cd E:\E:\logstash-6.0.0\bin\logstash -f C:\Users\Kowshik.Yerra\Desktop\HACHATON\cars_data\logstash_cars_info.conf
+
